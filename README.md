@@ -9,3 +9,9 @@ still confused about what this does
 - apple
 - banana
 - carrot
+
+# adding some albums
+trying to test merge behavior
+- mos def
+- too many zoos
+- adele
