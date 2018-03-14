@@ -21,3 +21,9 @@ trying to test merge behavior
 - mountain men
 - prince
 - michael jackson
+
+# things near me
+another change to test
+- juice
+- water
+- magazine
