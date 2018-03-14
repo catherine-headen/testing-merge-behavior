@@ -9,3 +9,15 @@ still confused about what this does
 - apple
 - banana
 - carrot
+
+# adding some albums
+trying to test merge behavior
+- mos def
+- too many zoos
+- adele
+
+# a few more album names
+trying to test merge behavior
+- mountain men
+- prince
+- michael jackson
